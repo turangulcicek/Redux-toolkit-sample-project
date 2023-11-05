@@ -1,0 +1,175 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/29/2023"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "10/3/2023"
+    },
+    {
+      "id": 4,
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/2/2020"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 10,
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "React Natie",
+      "company": "CGI",
+      "location": "Uzaktan",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "c5556876-e3f3-4e90-a98a-553864d9aa17",
+      "date": "10/2/2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asda",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "94218ea2-aa43-4f42-ac45-3a54cd325870",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "12",
+      "company": "12",
+      "location": "12",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "1164818f-7459-4b30-b21a-c29e954f4a7a",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asd",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "0e003485-63d2-4f6a-99f5-09bccd34e0fe",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asd",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "ca177551-5bae-46ca-a0d4-59da827dec92",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asd",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "3991e5de-ab98-403f-ba5f-1125a5f16b2a",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "as",
+      "company": "asd",
+      "location": "asd",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "6176d589-bbd6-4b23-ac01-aa1ee400c814",
+      "date": "03.11.2023"
+    },
+    {
+      "position": "backend",
+      "company": "Amazon",
+      "location": "TUrkey",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "a82bb34b-c197-46ea-a106-7eb28a7e6831",
+      "date": "05.11.2023"
+    },
+    {
+      "position": "backend",
+      "company": "sample",
+      "location": "test",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "683189cd-c2d4-46fd-a69f-82c7847ac922",
+      "date": "05.11.2023"
+    }
+  ]
+}
